@@ -1,0 +1,17 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "create the test node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "server",
+    "test",
+    "server"
+  ],
+  "author": "Isaias Santana dos Santos",
+  "license": "ISC"
+}
